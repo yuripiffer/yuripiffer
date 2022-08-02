@@ -1,6 +1,4 @@
 
-  
-
 <a href="https://github.com/yuripiffer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -15,7 +13,7 @@
 </a>  
   
 
-## Hey 👋, Glad to see you here!  
+## Hey, Glad to see you here!  
 
 ### I'm Yuri Piffer 
 A backend software developer passionate about how the software industry can improve everyday life and reach millions of customers around the world.
