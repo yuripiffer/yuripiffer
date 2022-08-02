@@ -13,7 +13,7 @@
 </a>  
   
 
-## Hey, Glad to see you here!  
+## Hey, glad to see you here!  
 
 ### I'm Yuri Piffer 
 A backend software developer passionate about how the software industry can improve everyday life and reach millions of customers around the world.
