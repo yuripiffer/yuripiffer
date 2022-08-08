@@ -26,7 +26,7 @@ All these different life experiences gather into a single proposal to combine di
 <br/>  
 
 
-- I’m currently working on [Serasa Experian](https://www.linkedin.com/company/serasaexperian/mycompany/).  
+- I’m currently working for [Serasa Experian](https://www.linkedin.com/company/serasaexperian/mycompany/).  
   
 
 -  I’m moving to Europe in Oct 2022.  
